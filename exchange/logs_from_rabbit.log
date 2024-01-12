@@ -1,0 +1,5 @@
+2024/01/12 10:49:46 Binding queue amq.gen-2n0hXPzP7i4sAFCHq_lXmw to exchange logs_direct with routing key warning
+2024/01/12 10:49:46 Binding queue amq.gen-2n0hXPzP7i4sAFCHq_lXmw to exchange logs_direct with routing key error
+2024/01/12 10:49:46  [*] Waiting for logs. To exit press CTRL+C
+2024/01/12 10:51:28  [x] 404
+2024/01/12 10:51:31  [x] 503
