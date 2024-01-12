@@ -1,0 +1,4 @@
+2024/01/12 10:49:53 Binding queue amq.gen-Zfcl0T_zztL_JAncxlEYBg to exchange logs_direct with routing key info
+2024/01/12 10:49:53  [*] Waiting for logs. To exit press CTRL+C
+2024/01/12 10:50:34  [x] hello
+2024/01/12 10:50:41  [x] testing test
